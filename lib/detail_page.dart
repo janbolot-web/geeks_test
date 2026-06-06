@@ -40,7 +40,7 @@ class DetailPage extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.all(24.0),
             child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
+              crossAxisAlignment: CrossAxisAlignment.start, 
               children: [
                 Text(
                   car.name,
